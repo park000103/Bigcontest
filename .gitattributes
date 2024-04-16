@@ -1,0 +1,9 @@
+평가데이터.csv filter=lfs diff=lfs merge=lfs -text
+1.고객의[[:space:]]대출상품[[:space:]]신청[[:space:]]여부[[:space:]]예측_전처리.ipynb filter=lfs diff=lfs merge=lfs -text
+2.군집분석으로[[:space:]]잠재적[[:space:]]채무[[:space:]]불이행자[[:space:]]식별.ipynb filter=lfs diff=lfs merge=lfs -text
+3.대출조회자[[:space:]]중[[:space:]]각[[:space:]]군집별[[:space:]]특징[[:space:]]분석2.ipynb filter=lfs diff=lfs merge=lfs -text
+3.대출조회자[[:space:]]중[[:space:]]각[[:space:]]군집별[[:space:]]특징분석1.ipynb filter=lfs diff=lfs merge=lfs -text
+1.고객의[[:space:]]대출상품[[:space:]]신청[[:space:]]여부[[:space:]]예측_모델.ipynb filter=lfs diff=lfs merge=lfs -text
+1.고객의[[:space:]]대출상품[[:space:]]신청[[:space:]]여부[[:space:]]예측_파생변수.ipynb filter=lfs diff=lfs merge=lfs -text
+3.대출조회자[[:space:]]중[[:space:]]각[[:space:]]군집별[[:space:]]특징[[:space:]]분석3.ipynb filter=lfs diff=lfs merge=lfs -text
+대출[[:space:]]승인[[:space:]]여부[[:space:]]예측_결과보고서.pdf filter=lfs diff=lfs merge=lfs -text
